@@ -15,3 +15,5 @@ elif n%5==0:
 else:
     print(n)
 
+a = {1: 19}
+print(a[1])

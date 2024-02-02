@@ -1,7 +1,7 @@
 
 # convert to int
 print(int(12.32)) #12
-print(int(12))#12
+print(int(100))#12
 print(int("12"))#12
 #print(int("ab")) # valueError
 print(int(True))#1
